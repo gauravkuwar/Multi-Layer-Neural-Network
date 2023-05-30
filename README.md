@@ -8,4 +8,4 @@ A lot of time went into understanding the math behind Neural Networks, especiall
 
 Neural Networks are essentially simplified just models of the human brain and it feels like interacting with alien technology, and that's just really cool! 
 
-In the end, I was able to get a very good accuracy of 97.05%!
+In the end, I was able to get a very good accuracy of __97.05%__ !
